@@ -1,0 +1,19 @@
+.abstract-class{
+    background-color: #1890FF;
+    padding: 10px;
+}
+.abstract-class > h2{
+    text-align: center;
+    width: 100%;
+    font-weight: 600;
+    color: #fff;
+}
+.abstract-class > ul{
+    text-align: center;
+    padding: 0;
+}
+.abstract-class>ul>li{
+    list-style: none;
+    font-weight: 600;
+    color: #fff;
+}
